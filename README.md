@@ -1,8 +1,7 @@
 ## Hi, I'm Melissa 👋
 
-🌍 Building AI systems that understand the world<br/>
-🎥 Currently exploring VR and immersive tech<br/>
 💫 Welcome to my GitHub!<br/>
+🎥 Currently exploring VR and immersive tech<br/>
 
 
 ## 🌐 Socials:
